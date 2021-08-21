@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pavan-vamsi
-- 👀 I’m interested in software developer
+- 👀 I’m interested in software developing
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
