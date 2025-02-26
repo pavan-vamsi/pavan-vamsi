@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Development, React and other Frameworks**
 
-- 📫 How to reach me **pavanvamsi0402@
+- 📫 How to reach me **pavanvamsi0402@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
