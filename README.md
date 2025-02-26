@@ -5,9 +5,7 @@
 
 - 💬 Ask me about **Web Development, React and other Frameworks**
 
-- 📫 How to reach me **pavanvamsi0402@gmail.com**
-
-- Portfolio -> **https://portfolio-pavan-vamsi-v.netlify.app/**
+- 📫 How to reach me **pavanvamsi0402@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
